@@ -1,0 +1,6 @@
+framework module Pods_AreaAnalyzer_proto004_Map {
+  umbrella header "Pods-AreaAnalyzer_proto004_Map-umbrella.h"
+
+  export *
+  module * { export * }
+}
